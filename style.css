@@ -1,0 +1,851 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contenr {
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boxes {
+    background: rgb(1, 78, 86);
+    width: 1440px;
+    height: 517px;
+}
+
+.box img {
+    margin-left: 165px;
+    padding-top: 77px;
+}
+
+.l ul {
+    color: rgb(255, 255, 255);
+    font-family: Livvic;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    margin-left: 601px;
+    padding-top: 77px;
+}
+
+.box {
+    display: flex;
+}
+
+.box button {
+    /* Rectangle */
+    /* position: absolute; */
+    width: 153px;
+    height: 48px;
+    box-sizing: border-box;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 24px;
+    background: rgb(1, 78, 86);
+    margin-left: 58px;
+    margin-top: 66px;
+    color: white;
+    color: rgb(255, 255, 255);
+    font-family: Livvic;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.box1 p {
+    /* We help companies bu */
+    width: 730px;
+    height: 112px;
+    top: 44px;
+    color: rgb(255, 255, 255);
+    font-family: Livvic;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-top: 130px;
+}
+
+.box1 {
+    display: flex;
+    gap: 110px;
+    margin-left: 165px;
+}
+
+.box2 {
+    margin-top: 114px;
+}
+
+.cards {
+    /* Mask */
+    /* position: absolute; */
+    width: 1440px;
+    height: 600px;
+    background: rgb(0, 64, 71);
+}
+
+.card {
+    padding-top: 50px;
+}
+
+.card h1 {
+    /* Meet the directors */
+    /* position: absolute; */
+    width: 920px;
+    height: 52.12px;
+    color: rgb(255, 255, 255);
+    font-family: Livvic;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: center;
+    margin-left: 262px;
+}
+
+.div1 {
+    /* Rectangle */
+    /* position: absolute; */
+    width: 350px;
+    height: 274.73px;
+    bottom: 9.96%;
+    background: rgb(1, 47, 52);
+}
+
+.div3 {
+    margin-left: 120px;
+    padding-top: 40px;
+}
+
+.div0 {
+    width: 350px;
+    height: 274.73px;
+    bottom: 9.96%;
+    background: rgb(1, 47, 52);
+}
+
+.div2 {
+    /* Nikita Marks */
+    /* position: absolute; */
+    width: 302px;
+    height: 28px;
+    top: 3px;
+    left: 0;
+    bottom: 29.71px;
+    color: rgb(121, 200, 199);
+    font-family: Livvic;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.div4 {
+    /* Founder & CEO */
+    /* position: absolute; */
+    width: 302px;
+    height: 25px;
+    top: 31px;
+    bottom: 4.71px;
+    color: rgb(255, 255, 255);
+    font-family: Livvic;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.div5 img {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.div {
+    display: flex;
+    gap: 50px;
+    margin-left: 167px;
+    padding-top: 92px;
+}
+
+.some {
+    /* Mask */
+    /* position: absolute; */
+    width: 1440px;
+    height: 355.66px;
+    background: rgb(1, 47, 52);
+}
+
+.some1 h1 {
+    /* Some of our clients */
+    /* position: absolute; */
+    width: 920px;
+    height: 39.07px;
+    margin-left: 260px;
+    padding-top: 113px;
+    color: rgb(255, 255, 255);
+    font-family: Livvic;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.img {
+    margin-top: 109px;
+    margin-left: 165px;
+    display: flex;
+    gap: 80px;
+}
+
+.a {
+    /* Mask */
+    /* position: absolute; */
+    width: 1440px;
+    height: 200px;
+    background: rgb(246, 126, 126);
+}
+
+.a1 h1 {
+    /* Ready to get started */
+    /* position: absolute; */
+    width: 505px;
+    height: 48px;
+    color: rgb(1, 47, 52);
+    font-family: Livvic;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: center;
+    margin-left: 260px;
+}
+
+.a1 {
+    display: flex;
+    padding-top: 76px;
+    gap: 250px;
+}
+
+.a1 button {
+    /* Rectangle */
+    /* position: absolute; */
+    width: 153px;
+    height: 48px;
+    box-sizing: border-box;
+    border: 2px solid rgb(1, 47, 52);
+    border-radius: 24px;
+    background: rgb(246, 126, 126);
+}
+
+.myteam {
+    /* Rectangle Copy 3 */
+    /* position: absolute; */
+    width: 1440px;
+    height: 150px;
+    background: rgb(0, 37, 41);
+}
+
+.myteam1 {
+    margin-left: 159px;
+    padding-top: 48px;
+    display: flex;
+    gap: 846px;
+}
+
+.tri {
+    display: none;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .contenr {
+        width: 850px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .tri {
+        display: block;
+        margin-left: 100px;
+    }
+
+    .uscon {
+        display: none;
+    }
+
+    .boxes {
+        background: rgb(1, 78, 86);
+        width: 750px;
+        height: 517px;
+    }
+
+
+    .box img {
+        margin-left: 39px;
+        padding-top: 77px;
+    }
+
+    .l ul {
+        color: rgb(255, 255, 255);
+        font-family: Livvic;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: 0px;
+        text-align: center;
+        display: flex;
+        display: none;
+        gap: 30px;
+        margin-left: 290px;
+        padding-top: 77px;
+    }
+
+    .box {
+        display: flex;
+    }
+
+    .box button {
+        /* Rectangle */
+        /* position: absolute; */
+        width: 153px;
+        height: 48px;
+        box-sizing: border-box;
+        border: 2px solid rgb(255, 255, 255);
+        border-radius: 24px;
+        background: rgb(1, 78, 86);
+        margin-left: 18px;
+        margin-top: 66px;
+        color: white;
+        color: rgb(255, 255, 255);
+        font-family: Livvic;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: 0px;
+        text-align: center;
+    }
+
+    .box1 p {
+        /* We help companies bu */
+        width: 730px;
+        height: 112px;
+        color: rgb(255, 255, 255);
+        font-family: Livvic;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 28px;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .box1 {
+        flex-direction: column;
+        gap: 0px;
+        /* margin-left: 165px; */
+        left: 0;
+    }
+
+    .box2 {
+        margin-top: 114px;
+        margin-left: 155px;
+    }
+
+    .cards {
+        /* Mask */
+        /* position: absolute; */
+        width: 750px;
+        height: 1311px;
+        /* height: 600px; */
+        background: rgb(0, 64, 71);
+    }
+
+    .card h1 {
+        /* Meet the directors */
+        /* position: absolute; */
+        width: 920px;
+        height: 52.12px;
+        color: rgb(255, 255, 255);
+        font-family: Livvic;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 48px;
+        text-align: left;
+        left: 10px;
+    }
+
+    .div1 {
+        /* Rectangle */
+        /* position: absolute; */
+        width: 350px;
+        height: 274.73px;
+        bottom: 9.96%;
+        background: rgb(1, 47, 52);
+    }
+
+    .div1 p {
+        text-align: center;
+    }
+
+    .div0 {
+        width: 350px;
+        height: 274.73px;
+        bottom: 9.96%;
+        background: rgb(1, 47, 52);
+        margin-left: 3px;
+    }
+
+    .div3 {
+        margin-left: 120px;
+        padding-top: 40px;
+    }
+
+    .div2 {
+        /* Nikita Marks */
+        /* position: absolute; */
+        width: 302px;
+        height: 28px;
+        top: 3px;
+        left: 0;
+        bottom: 29.71px;
+        color: rgb(121, 200, 199);
+        font-family: Livvic;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 28px;
+        letter-spacing: 0px;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    .div4 {
+        /* Founder & CEO */
+        /* position: absolute; */
+        width: 302px;
+        height: 25px;
+        top: 31px;
+        bottom: 4.71px;
+        color: rgb(255, 255, 255);
+        font-family: Livvic;
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 25px;
+        letter-spacing: 0px;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    .div5 img {
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+
+    .div {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 50px;
+        margin-left: 190px;
+        padding-top: 92px;
+    }
+
+    .some {
+        /* Mask */
+        /* position: absolute; */
+        width: 750px;
+        height: 500px;
+        background: rgb(1, 47, 52);
+        /* margin-left: 50px; */
+    }
+
+    .some1 h1 {
+        /* Some of our clients */
+        /* position: absolute; */
+        width: 920px;
+        height: 39.07px;
+        margin-left: 10px;
+        padding-top: 113px;
+        color: rgb(255, 255, 255);
+        font-family: Livvic;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 48px;
+        letter-spacing: 0px;
+        text-align: left;
+    }
+
+    .some2 {
+        margin-left: 130px;
+    }
+
+    .img {
+        margin-top: 109px;
+        margin-left: 20px;
+        /* display: flex; */
+        flex-direction: column;
+        gap: 10px;
+        margin-left: 140px;
+    }
+
+    .img1 {
+        margin-top: 10px;
+    }
+
+    .a {
+        /* Mask */
+        /* position: absolute; */
+        width: 750px;
+        height: 200px;
+        background: rgb(246, 126, 126);
+    }
+
+    .a1 h1 {
+        /* Ready to get started */
+        /* position: absolute; */
+        width: 505px;
+        height: 48px;
+        color: rgb(1, 47, 52);
+        font-family: Livvic;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 48px;
+        letter-spacing: 0px;
+        text-align: center;
+        margin-left: 100px;
+    }
+
+    .a1 {
+        /* display: flex; */
+        flex-direction: column;
+        padding-top: 76px;
+        gap: 20px;
+    }
+
+    .a1 button {
+        /* Rectangle */
+        /* position: absolute; */
+        width: 153px;
+        height: 48px;
+        box-sizing: border-box;
+        border: 2px solid rgb(1, 47, 52);
+        border-radius: 24px;
+        background: rgb(246, 126, 126);
+        margin-left: 300px;
+    }
+
+    .myteam {
+        /* Rectangle Copy 3 */
+        /* position: absolute; */
+        width: 750px;
+        height:250px;
+        background: rgb(0, 37, 41);
+
+    }
+
+    .myteam1 {
+        margin-left: 300px;
+        flex-wrap: wrap;
+        flex-direction: column;
+        padding-top: 48px;
+        gap: 36px;
+    }
+
+}
+
+/* Media query for screens with a width between 601 and 768 pixels */
+@media screen and (min-width: 601px) and (max-width: 868px) {
+    .contenr {
+        width: 868px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .boxes {
+        background: rgb(1, 78, 86);
+        width: 868px;
+        height: 517px;
+    }
+
+    .box img {
+        margin-left: 39px;
+        padding-top: 77px;
+    }
+
+    .l ul {
+        color: rgb(255, 255, 255);
+        font-family: Livvic;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: 0px;
+        text-align: center;
+        display: flex;
+        gap: 30px;
+        margin-left: 290px;
+        padding-top: 77px;
+    }
+
+    .box {
+        display: flex;
+    }
+
+    .box button {
+        /* Rectangle */
+        /* position: absolute; */
+        width: 153px;
+        height: 48px;
+        box-sizing: border-box;
+        border: 2px solid rgb(255, 255, 255);
+        border-radius: 24px;
+        background: rgb(1, 78, 86);
+        margin-left: 18px;
+        margin-top: 66px;
+        color: white;
+        color: rgb(255, 255, 255);
+        font-family: Livvic;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: 0px;
+        text-align: center;
+    }
+
+    .box1 p {
+        /* We help companies bu */
+        width: 730px;
+        height: 112px;
+        color: rgb(255, 255, 255);
+        font-family: Livvic;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: 0px;
+        text-align: center;
+        margin-top: 30px;
+        /* margin-right: 200px; */
+        left: 0;
+    }
+
+    .box1 {
+        flex-direction: column;
+        gap: 0px;
+        /* margin-left: 165px; */
+        left: 0;
+    }
+
+    .box2 {
+        margin-top: 114px;
+        margin-left: 155px;
+    }
+
+    .cards {
+        /* Mask */
+        /* position: absolute; */
+        width: 868px;
+        height: 1111px;
+        /* height: 600px; */
+        background: rgb(0, 64, 71);
+    }
+
+    .card h1 {
+        /* Meet the directors */
+        /* position: absolute; */
+        width: 920px;
+        height: 52.12px;
+        color: rgb(255, 255, 255);
+        font-family: Livvic;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 48px;
+        letter-spacing: 0px;
+        text-align: left;
+        /* margin-left: 262px; */
+    }
+
+    .div1 {
+        /* Rectangle */
+        /* position: absolute; */
+        width: 350px;
+        height: 274.73px;
+        bottom: 9.96%;
+        background: rgb(1, 47, 52);
+    }
+
+    .div0 {
+        width: 350px;
+        height: 274.73px;
+        bottom: 9.96%;
+        background: rgb(1, 47, 52);
+        margin-left: 190px;
+    }
+
+    .div3 {
+        margin-left: 120px;
+        padding-top: 40px;
+    }
+
+    .div2 {
+        /* Nikita Marks */
+        /* position: absolute; */
+        width: 302px;
+        height: 28px;
+        top: 3px;
+        left: 0;
+        bottom: 29.71px;
+        color: rgb(121, 200, 199);
+        font-family: Livvic;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 28px;
+        letter-spacing: 0px;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    .div4 {
+        /* Founder & CEO */
+        /* position: absolute; */
+        width: 302px;
+        height: 25px;
+        top: 31px;
+        bottom: 4.71px;
+        color: rgb(255, 255, 255);
+        font-family: Livvic;
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 25px;
+        letter-spacing: 0px;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    .div5 img {
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+
+    .div {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 50px;
+        margin-left: 67px;
+        padding-top: 92px;
+    }
+
+    .some {
+        /* Mask */
+        /* position: absolute; */
+        width: 868px;
+        height: 355.66px;
+        background: rgb(1, 47, 52);
+    }
+
+    .some1 h1 {
+        /* Some of our clients */
+        /* position: absolute; */
+        width: 920px;
+        height: 39.07px;
+        margin-left: 60px;
+        padding-top: 113px;
+        color: rgb(255, 255, 255);
+        font-family: Livvic;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 48px;
+        letter-spacing: 0px;
+        text-align: center;
+    }
+
+    .img {
+        margin-top: 109px;
+        margin-left: 20px;
+        display: flex;
+        gap: 10px;
+    }
+
+    .a {
+        /* Mask */
+        /* position: absolute; */
+        width: 868px;
+        height: 200px;
+        background: rgb(246, 126, 126);
+    }
+
+    .a1 h1 {
+        /* Ready to get started */
+        /* position: absolute; */
+        width: 505px;
+        height: 48px;
+        color: rgb(1, 47, 52);
+        font-family: Livvic;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 48px;
+        letter-spacing: 0px;
+        text-align: center;
+        margin-left: 100px;
+    }
+
+    .a1 {
+        display: flex;
+        padding-top: 76px;
+        gap: 20px;
+    }
+
+    .a1 button {
+        /* Rectangle */
+        /* position: absolute; */
+        width: 153px;
+        height: 48px;
+        box-sizing: border-box;
+        border: 2px solid rgb(1, 47, 52);
+        border-radius: 24px;
+        background: rgb(246, 126, 126);
+    }
+
+    .myteam {
+        /* Rectangle Copy 3 */
+        /* position: absolute; */
+        width: 868px;
+        height: 150px;
+        background: rgb(0, 37, 41);
+    }
+
+    .myteam1 {
+        margin-left: 159px;
+        padding-top: 48px;
+        display: flex;
+        gap: 336px;
+    }
+}
+
+/* Media query for screens with a width between 769 and 1024 pixels */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .test {
+        font-size: 40px;
+    }
+}
+
+/* Media query for screens with a width between 1025 and 1200 pixels */
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+    .test {
+        font-size: 45px;
+    }
+}
+
+/* Media query for screens with a minimum width of 1201 pixels */
+@media screen and (min-width: 1201px) {}
